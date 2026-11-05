@@ -72,7 +72,7 @@ CTRL + C
 
 ---
 
->📦 Requirements
+## 📦 Requirements
 
 - Python 3
 - requests
