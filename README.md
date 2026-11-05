@@ -6,7 +6,7 @@ It is designed to make status management easier through configurable text rotati
 
 ---
 
-> Features
+### Features
 
 - Status Rotation — Automatically rotates through text statuses.
 - HypeSquad Rotation — Optional HypeSquad house rotation.
@@ -18,33 +18,33 @@ It is designed to make status management easier through configurable text rotati
 
 ---
 
-📥 Installation
+## 📥 Installation
 
 Termux (Android)
 
 1. Update packages
 
-pkg update && pkg upgrade -y
+> pkg update && pkg upgrade -y
 
 2. Install Python and Git
 
-pkg install python git -y
+> pkg install python git -y
 
 3. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/StatusFlow.git
+> git clone https://github.com/YOUR-USERNAME/StatusFlow.git
 
 4. Enter the project directory
 
-cd StatusFlow
+> cd StatusFlow
 
 5. Install dependencies
 
-pip install requests colorama
+> pip install requests colorama
 
 ---
 
->⚙️ Configuration
+## ⚙️ Configuration
 
 Before running StatusFlow, configure your project using "config.json".
 
@@ -60,7 +60,7 @@ aboutme.txt
 
 ---
 
->🚀 Usage
+## 🚀 Usage
 
 Run the program with:
 
@@ -69,22 +69,6 @@ python main.py
 To stop the program, press:
 
 CTRL + C
-
----
-
- 
->📁 Project Structure
-
-StatusFlow/
-│
-├── main.py
-├── config.json
-├── config.example.json
-├── text.txt
-├── aboutme.txt
-├── README.md
-├── LICENSE
-└── .gitignore
 
 ---
 
@@ -97,22 +81,22 @@ StatusFlow/
 
 ---
 
->⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 - This project is provided for educational purposes.
 - Use it responsibly and at your own risk.
 - Automating a personal Discord account through unofficial endpoints may violate Discord's Terms of Service and could result in account restrictions.
 ---
 
->📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
-See the "LICENSE" (LICENSE) file for details.
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
->⭐ Support
+### ⭐ Support
 
 If you find StatusFlow useful, consider giving the repository a ⭐ on GitHub.
 
