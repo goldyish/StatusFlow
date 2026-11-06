@@ -32,7 +32,7 @@ Termux (Android)
 
 3. Clone the repository
 
-> git clone https://github.com/YOUR-USERNAME/StatusFlow.git
+> git clone https://github.com/goldyish/StatusFlow.git
 
 4. Enter the project directory
 
